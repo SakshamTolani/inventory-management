@@ -73,7 +73,7 @@ const SignIn = () => {
     return (
         <div className="mycard">
             <div class="card auth-card input-field">
-                <h2>Instabyte</h2>
+                <h2>Inventory Management</h2>
                 <input type="text" placeholder="name" value={name} onChange={(e) => setName(e.target.value)}></input>
                 <input type="text" placeholder="email address" value={email}
                     onChange={(e) => setEmail(e.target.value)} />

@@ -58,7 +58,7 @@ const SignIn = () => {
   return (
     <div className="mycard">
       <div className="card auth-card input-field">
-        <h2>Instabyte</h2>
+        <h2>Inventory Management</h2>
         <input
           type="text"
           placeholder="email address or phone number"

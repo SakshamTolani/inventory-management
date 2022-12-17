@@ -40,7 +40,7 @@ const CreateCategory = ()=>{
     }}>
         <input 
            type="text"
-            placeholder="Name of Product"
+            placeholder="Name of Category"
             value={categoryName}
             onChange={(e)=>setCategoryName(e.target.value)}
         />
